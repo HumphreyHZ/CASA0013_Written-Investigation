@@ -1,2 +1,2 @@
-# CASA0013_Written-Investigation
-Written Investigation for Quantitative Method
+# CASA0013_Written_Investigation
+Written Investigation for CASA0013 Quantitative Methods
